@@ -1,0 +1,39 @@
+.login{
+    float:right;
+    margin-top:15px;
+    margin-right:15px;
+    font-weight:bold;
+}
+.searchBar{
+    margin-top:9px;
+    margin-right:60px;
+    float:right;
+    position:relative;
+}
+.backEndMenuDropDown{
+    width: 214px;
+}
+.dropDownLoc{
+    margin-top: 25px;
+}
+.hidden {
+    display:none;
+}
+.flex-container {
+    display:flex;
+}
+.flexItem{
+    flex:auto;
+    margin:5px;
+}
+.crudNav{
+    background-color:#6f7784;
+    margin-left: -15px;
+    padding:9px 9px 9px 18px;
+}
+.header{
+    text-align: right;
+}
+.addUser{
+
+}
